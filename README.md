@@ -29,10 +29,12 @@ Herramienta web de verificación de hechos mediante análisis estructurado. Desa
 
 [Live Demo](https://jcdelgadop.github.io) | [Video Demo](https://www.youtube.com/@jcdelgadop)
 
-### PolicyCheck — Insurance Operations Console (In Development)
-Single Pane of Glass for health insurance operations: client search, 360° view, GDPR masking with auditable unmask, fraud detection, and decision logging. Built with Python, Flask, SQLite, and Bootstrap.
+### PolicyCheck — Insurance Operations Console
+Single Pane of Glass for health/travel insurance operations: client search, 360° view, GDPR masking with auditable unmask, fraud detection, and decision logging. Built with Python, Flask, SQLite, and Bootstrap.
 
-Consola unificada de operaciones de seguros de salud: búsqueda de clientes, vista 360°, enmascaramiento RGPD con desenmascaramiento auditable, detección de fraude y registro de decisiones. Desarrollada con Python, Flask, SQLite y Bootstrap.
+Consola unificada de operaciones de seguros de viaje/salud: búsqueda de clientes, vista 360°, enmascaramiento RGPD con desenmascaramiento auditable, detección de fraude y registro de decisiones. Desarrollada con Python, Flask, SQLite y Bootstrap.
+
+[Live Demo](https://policycheck.onrender.com)
 
 ## Certifications / Certificaciones
 
